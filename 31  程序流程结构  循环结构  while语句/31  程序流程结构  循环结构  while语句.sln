@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "31  程序流程结构  循环结构  while语句", "31  程序流程结构  循环结构  while语句\31  程序流程结构  循环结构  while语句.vcxproj", "{0DBA6366-26AA-44D0-B8C5-EF1F871EEF50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DBA6366-26AA-44D0-B8C5-EF1F871EEF50}.Debug|x64.ActiveCfg = Debug|x64
+		{0DBA6366-26AA-44D0-B8C5-EF1F871EEF50}.Debug|x64.Build.0 = Debug|x64
+		{0DBA6366-26AA-44D0-B8C5-EF1F871EEF50}.Debug|x86.ActiveCfg = Debug|Win32
+		{0DBA6366-26AA-44D0-B8C5-EF1F871EEF50}.Debug|x86.Build.0 = Debug|Win32
+		{0DBA6366-26AA-44D0-B8C5-EF1F871EEF50}.Release|x64.ActiveCfg = Release|x64
+		{0DBA6366-26AA-44D0-B8C5-EF1F871EEF50}.Release|x64.Build.0 = Release|x64
+		{0DBA6366-26AA-44D0-B8C5-EF1F871EEF50}.Release|x86.ActiveCfg = Release|Win32
+		{0DBA6366-26AA-44D0-B8C5-EF1F871EEF50}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A00F8DE3-E932-4B25-BCFA-BA6094833B10}
+	EndGlobalSection
+EndGlobal
